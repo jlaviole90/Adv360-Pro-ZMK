@@ -8,18 +8,6 @@ There is a web based GUI available for editing the keymap. It is available at ht
 
 Certain ZMK features (e.g. combos) require knowing the exact key positions in the matrix. They can be found in both image and text format [here](assets/key-positions.md)
 
-## Building the Firmware with GitHub Actions
-
-### Setup
-
-1. Fork this repo.
-2. Enable GitHub Actions on your fork.
-
-### Build firmware
-
-1. Push a commit to trigger the build.
-2. Download the artifact.
-
 ## Building the Firmware in a local container
 
 ### Setup
